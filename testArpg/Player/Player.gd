@@ -7,7 +7,6 @@ const FRICTION = 400 # 摩擦力
 var velocity = Vector2.ZERO #速度
 
 func _ready():
-	print('hello world')
 	pass # Replace with function body.
 	
 func _physics_process(delta):
