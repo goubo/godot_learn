@@ -2,9 +2,9 @@ tool
 extends KinematicBody2D
 
 const ACCELERATION = 500 # 加速度
-const MAX_SPEED = 80 # 最大速度
+const MAX_SPEED = 100 # 最大速度
 const FRICTION = 400 # 摩擦力
-var velocity = Vector2.ZERO #速度
+var velocity = Vector2.ZERO #实际速度
 
 func _ready():
 	pass # Replace with function body.
