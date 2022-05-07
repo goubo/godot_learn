@@ -6,13 +6,13 @@
 [node name="world" type="YSort"]
 
 [node name="Player" parent="." instance=ExtResource( 2 )]
-position = Vector2( 64, 24 )
+position = Vector2( 68.608, 60.1574 )
 
 [node name="bush" parent="." instance=ExtResource( 1 )]
 position = Vector2( 160, 24 )
 
 [node name="bush2" parent="." instance=ExtResource( 1 )]
-position = Vector2( 24, 24 )
+position = Vector2( 24, 23 )
 
 [node name="bush3" parent="." instance=ExtResource( 1 )]
 position = Vector2( 32, 96 )
